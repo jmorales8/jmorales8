@@ -74,6 +74,8 @@ As a Full Stack Web Developer, my focus is ensuring that users, developers and e
 
 - Enjoy getting to know others and hearing their opinions on multiple subjects to expand my own horizon
 
+Okay buh bye Recruitor Person or random person who stumbled upon my profile!!
+
 ---
 
 <div align="center">
