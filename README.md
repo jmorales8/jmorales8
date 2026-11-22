@@ -1,38 +1,3 @@
-<!-- ## Hiya! My name is Jaime Morales👋
-Building [mySchlawgs](https://beta.myschlawgs.lol) and other apps!
-
-📍 Chicago · 📫 jaimmoral98@gmail.com · 🎓 UIC Graduate May 2026
-
-As a primarily FullStack Web Developer, my focus is ensuring that users, developers and technical managers have an easy time figuring out how to move forward with better standards that allow everyone involved to learn and feel satisfied with their work!
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jmorales8&show_icons=true)
-
-My github stats would be alot more abundant, however, during 2021-2023, my company primarly used gitlabs for their professional work and deployment as opposed to standard github!
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmorales8&layout=compact)
-
-## Projects
-
-| Project Name             | Description                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://dummyimage.com/10/0a192f/white?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://dummyimage.com/10/f8f8f8/white?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://dummyimage.com/10/00b48a/white?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://dummyimage.com/10/00d1a0/white?text=+)) #00d1a0 |
-<!--
-**jmorales8/jmorales8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=240&section=header&text=Jaime%20Morales&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Full-Stack%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Jaime Morales banner"/>
 </div>
@@ -43,7 +8,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-morales-916108204/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jaimmoral98@gmail.com)
 
-![Open to any type of work!](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20any%20type%20of%20work%20!-a855f7?style=flat-square) [![Building -&gt; mySchlawgs](https://img.shields.io/badge/Building%20-%3E%20mySchlawgs-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/jmorales8/mySchlawgs) ![Chicago](https://img.shields.io/badge/Chicago-333?style=flat-square)
+![Open to anything and everything in between!](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20anything%20and%20everything%20in%20between!-a855f7?style=flat-square) [![Building -&gt; mySchlawgs](https://img.shields.io/badge/Building%20-%3E%20mySchlawgs-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/jmorales8/mySchlawgs) ![Chicago](https://img.shields.io/badge/Chicago-333?style=flat-square)
 
 </div>
 
@@ -60,6 +25,10 @@ As a Full Stack Web Developer, my focus is ensuring that users, developers and e
 ### Featured Projects
 
 - [mySchlawgs](https://beta.myschlawgs.lol) — A social media especially built for fun times with your favorite furry, scaly, and hairless animals known as Schlawgs! (play on words with dogs)
+
+- [Bunnys space](https://github.com/jmorales8/Bunnys-space) — A website I've been making for a friend to grow their twitch channel that includes their artwork, ability to submit commissions, and for it show when they are livestreaming
+
+- [LeetCode Practice](https://github.com/jmorales8/Leetcode-Practice) — A repo I've made to store my Leetcode practice
 
 ### Stack
 
