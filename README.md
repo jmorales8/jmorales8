@@ -65,6 +65,15 @@ As a Full Stack Web Developer, my focus is ensuring that users, developers and e
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jmorales8&theme=tokyo-night&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=jmorales8&theme=tokyo-night&hide_border=true&area=true)
 
 ---
+### Hobbies
+
+- Reading books, manga, and visual novels
+
+- Tending to my personal garden
+
+- If im not coding, im gaming. If im not gaming, im eating or sleeping lol
+
+- Enjoy getting to know others and hearing their opinions on multiple subjects to expand my own horizon
 
 <div align="center">
 
